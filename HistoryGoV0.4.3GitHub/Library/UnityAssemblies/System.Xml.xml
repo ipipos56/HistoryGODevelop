@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>System.Xml</name>
+	</assembly>
+	<members>
+		<member name="T:Mono.Xml.Xsl.Debug">
+			<summary>Class containing methods to ease debugging while developing a game.</summary>
+		</member>
+		<member name="M:Mono.Xml.Xsl.Debug.Assert(System.Boolean,System.String)">
+			<summary>Assert a condition and logs an error message to the Unity console on failure.</summary>
+		</member>
+	</members>
+</doc>
